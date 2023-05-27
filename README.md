@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here for source code](https://github.com/UbaidRussell/Order-summary-component)
-- Live Site URL: [Add live site URL here]() Site not live yet
+- Live Site URL: [Add live site URL here](https://ubaidrussell.github.io/Order-summary-component/)
 
 ## My process
 
