@@ -17,12 +17,13 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!
 
 ### The challenge
 
 Users should be able to:
 
-- See hover states for interactive elements
+- View the optimal layout depending on their device's screen size ✔
 
 ### Screenshot
 
@@ -45,26 +46,18 @@ Users should be able to:
 
 ### What I learned
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-### Continued development
 
+### Continued development
+We're planning to add some cool features in the future. Stay tuned!
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://fonts.google.com/specimen/Red+Hat+Display) - This helped me for the font. I really liked this pattern and will use it going forward.
 
 ## Author
 
@@ -73,3 +66,4 @@ const proudOfThisFunc = () => {
 - Twitter - [@UbaidRusell](https://www.twitter.com/UbaidRusell)
 
 ## Acknowledgments
+Shout out to the team at Frontend Mentor for creating such a great platform for developers to learn and grow!
