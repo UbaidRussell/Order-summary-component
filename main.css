@@ -33,3 +33,30 @@ body{
     color:grey;
     margin: 45px;
 }
+.inner-container{
+    background-color: hsl(225, 100%, 98%);
+    width: 400px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+    justify-content: center;
+    margin: 30px;
+    margin-top: 0px;
+    border-radius: 20px;
+}
+.inner-container-container{
+    gap: 0px;
+}
+.Annual-plans{
+    margin-right: 40px;
+}
+.pricing{
+    margin-right: 40px;
+    color: grey;
+}
+a{
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%)
+}
