@@ -6,6 +6,8 @@ body{
     font-family: 'Red Hat Display', sans-serif;
     margin: 0px;
     padding: 0px;
+    background: url(./images/pattern-background-desktop.svg) no-repeat, #E1E9Ff;
+    background-size: contain;
 }
 .container {
   position: relative;
@@ -95,13 +97,4 @@ a:hover{
 }
 .second-button:hover{
     color: black;
-}
-.background-image{
-    z-index: -1;
-    position: absolute;
-    width:100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-    top: 0px;
 }
