@@ -46,9 +46,25 @@ Users should be able to:
 
 ### What I learned
 
+Developing a media query specifically for this website was a great learning experience. I learned how to use the @media rule to define different style rules for different media types/devices. I also learned how to use the @media rule along with the and operator to define a media query that consists of more than one part.
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+@media only screen and (min-width:200px) and (max-width:500px){
+    .container {
+        width: 350px;
+      } 
+      .illustration-image{
+        width: 350px;
+    }
+    .inner-container{
+        width: 300px;
+    }
+    .music-icon{
+        margin-right: 10px;
+    }
+    a{
+        display: none;
+    }
 }
 ```
 
