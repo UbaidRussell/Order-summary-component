@@ -16,7 +16,7 @@ body{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 450px;
+  width: 425px;
   border-radius: 20px;
   background-color: white;
   margin-bottom:10px;
@@ -24,7 +24,7 @@ body{
 }
 
 .illustration-image{
-    width: 450px;
+    width: 425px;
     object-fit: cover;
     border-top-left-radius:20px;
     border-top-right-radius: 20px;
@@ -97,4 +97,20 @@ a:hover{
 }
 .second-button:hover{
     color: black;
+}
+
+
+@media only screen and (min-width:200px) and (max-width:500px){
+    .container {
+        width: 350px;
+      } 
+      .illustration-image{
+        width: 350px;
+    }
+    .inner-container{
+        width: 300px;
+    }
+    .music-icon{
+        margin-right: 30px;
+    }
 }
