@@ -113,7 +113,7 @@ a:hover{
     .music-icon{
         margin-right: 10px;
     }
-    a{
+    .change{
         display: none;
     }
 }
